@@ -1,3 +1,4 @@
+由于cnpm无法安装，克隆一份到自己仓库，方便安装
 # Word Cloud Layout
 
 This is a [Wordle](http://www.wordle.net/)-inspired word cloud layout written
